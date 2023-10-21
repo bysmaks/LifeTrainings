@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Upload and testing your apps</title>
+        <link href="static/css/bootstrap.min.css" rel="stylesheet" type="text/css">
+        <link href="https://fonts.googleapis.com/css?family=Raleway:100,600" rel="stylesheet" type="text/css">
+        <style>
+            html, body {
+                background-color: #000;
+                color: #fff;
+                font-family: 'Raleway', sans-serif;
+                font-weight: 100;
+                height: 100vh;
+                margin: 0;
+            }
+
+            .full-height {
+                height: 100vh;
+            }
+
+            .flex-center {
+                align-items: center;
+                display: flex;
+                justify-content: center;
+            }
+
+            .position-ref {
+                position: relative;
+            }
+
+            .top-right {
+                position: absolute;
+                right: 10px;
+                top: 18px;
+            }
+
+            .content {
+                text-align: center  ;
+            }
+
+            .title {
+                font-size: 30px;
+            }
+
+            .m-b-md {
+                margin-bottom: 30px;
+            }
+        </style>
+    </head>
+    <body>
+        <div class="flex-center position-ref full-height">
+            <div class="content">   
+            <div class="content">
+                <div class="title m-b-md">
+                    Upload you app (only zip filess accesses) and we testing it in our environment.
+                    <form action="/upload" method="post" enctype="multipart/form-data">
+                        <input type="file" name="archive" value="text" />
+                        <button type="submit">Submit</button>
+                    </form>
+                    {% if error %}
+                        <h3>{{ error }}</h3>
+                    {% endif %}
+                </div>
+            </div>
+        </div>
+    </body>
+</html>
