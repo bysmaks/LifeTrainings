@@ -20,4 +20,4 @@
 | [simple crypto](crypto/simple_crypto.md)                  |       crypto     |    100    |
 | [play fair](crypto/play_fair.md)                          |       crypto     |    200    |
 | [find](misc/find.md)                                      |        misc      |    50     |
-| [noise](misc/find.md)                                     |        misc      |    150    |
+| [noise](misc/noise.md)                                     |        misc      |    150    |
