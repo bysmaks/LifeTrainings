@@ -3,10 +3,9 @@
 
 # Introduction
 
-```
+
 [Файл_1](files/enc-2.py)
 [Файл_2](files/flag.enc)
-```
 
 
 # Solve
