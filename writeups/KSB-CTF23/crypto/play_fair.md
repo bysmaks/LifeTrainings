@@ -9,8 +9,6 @@
 
 # Solve
 
-Правилапереписаны для расшифровки именно, на той картинке зелёным шрифтом было для зашифровки
-
 ![](../images/play_fair1.jpeg)
 ![](../images/play_fair2.jpeg)
 ![](../images/play_fair3.jpeg)
