@@ -3,16 +3,20 @@
 
 # Introduction
 
-```
 ![](../images/pl1.jpeg)
 ![](../images/pl2.jpeg)
-```
 
 
 # Solve
 
+Правилапереписаны для расшифровки именно, на той картинке зелёным шрифтом было для зашифровки
 
-
+![](../images/play_fair1.jpeg)
+![](../images/play_fair2.jpeg)
+![](../images/play_fair3.jpeg)
+![](../images/play_fair4.jpeg)
+![](../images/play_fair5.jpeg)
+![](../images/play_fair6.jpeg)
 
 Получаем флаг : `Смотрите изображение выше` 
 
