@@ -9,6 +9,7 @@
 
 # Solve
 
+![](../images/play_fair0.jpeg)
 ![](../images/play_fair1.jpeg)
 ![](../images/play_fair2.jpeg)
 ![](../images/play_fair3.jpeg)
