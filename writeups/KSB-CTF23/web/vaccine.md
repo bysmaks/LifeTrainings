@@ -112,7 +112,7 @@ id    |   name   |  password |
 
 Excellent!
 
-![](../images/vaccine12.jpeg)
+![](../images/vaccine13.jpeg)
   
 
 
