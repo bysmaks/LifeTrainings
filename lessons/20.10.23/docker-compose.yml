@@ -1,0 +1,8 @@
+version: '2'
+services:
+  machine1:
+    build: .
+    restart: always
+    ports:
+     - "8080:8080"
+     - "4444:22"
