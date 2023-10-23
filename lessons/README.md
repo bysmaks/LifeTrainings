@@ -4,5 +4,5 @@
 
  Дата                      |          Тема                                    |
 | ------------------------ | ------------------------------------------------ |
-| [20.10.2023](20.10.2023) |  KillChain Enum Fuzzing LPE ReverseShell         |
+| [20.10.2023](20.10.23)   |  KillChain Enum Fuzzing LPE ReverseShell         |
 

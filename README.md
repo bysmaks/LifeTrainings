@@ -7,5 +7,5 @@
  - [writeups](writeups)	- разборы прошедших CTF
 
 Контакты:
- - (Группа вконтакте)[https://vk.com/lifetrainings]
- - (Группа телеграмм)[https://t.me/LifeTrainings]
+ - [Группа вконтакте](https://vk.com/lifetrainings)
+ - [Группа телеграмм](https://t.me/LifeTrainings)
