@@ -1,0 +1,10 @@
+version: '2'
+services:
+  pentest:
+    build: .
+    restart: always
+    privileged: true
+    container_name: pentest
+    ports:
+     - "8090:8090"
+     - "2222:22"
