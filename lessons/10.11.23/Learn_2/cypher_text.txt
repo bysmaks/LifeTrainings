@@ -1,0 +1,5 @@
+rxusOqmkvfa`qr{fw}zsI
+
+
+Cypher : XOR 
+Key : number in range 0 to 1000
