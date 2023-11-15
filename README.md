@@ -4,7 +4,7 @@
 
 Структура репозитория:
  - [lessons](lessons)	- материалы к занятиям в университете
- - [writeups](writeups)	- разборы прошедших CTF
+ - [writeups](writeups)	- разборы прошедших CTF и не только
 
 Контакты:
  - [Группа вконтакте](https://vk.com/lifetrainings)
